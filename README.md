@@ -26,8 +26,10 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/pulkit1417&layout=compact&theme=" alt=https://github.com/pulkit1417 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/pulkit1417&show_icons=true&locale=en&theme=" alt="https://github.com/pulkit1417" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/pulkit1417&theme=" alt="https://github.com/pulkit1417" /></p>
+<a href="https://github.com/pulkit">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pulkit&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pulkit&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pulkit&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pulkit&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkit&theme=2077" height="180em" />
+</div>
