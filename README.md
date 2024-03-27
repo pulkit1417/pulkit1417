@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Personal Portfolio:<br>pulkit1417.github.io/Main_Portfolio/<br>
 - 👯 I’m looking to collaborate on **Web Development**<br>
 - 🌱 I’m currently learning **JavaScript**<br>
-
 - 📫 How to reach me **gupta.pulkit2408@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/pulkitgupta2408" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
