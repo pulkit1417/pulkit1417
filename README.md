@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Pulkit</h1>
-- 🔭 I’m currently working on [Personal Portfolio](pulkit1417.github.io/Main_Portfolio/)
-- 👯 I’m looking to collaborate on **Web Development**
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on Personal Portfolio:<br>pulkit1417.github.io/Main_Portfolio/<br>
+- 👯 I’m looking to collaborate on **Web Development**<br>
+- 🌱 I’m currently learning **JavaScript**<br>
 
 - 📫 How to reach me **gupta.pulkit2408@gmail.com**
 
