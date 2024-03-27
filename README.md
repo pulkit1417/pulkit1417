@@ -26,10 +26,4 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<a href="https://github.com/pulkit">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pulkit&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pulkit&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pulkit&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pulkit&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkit&theme=2077" height="180em" />
-</div>
+
