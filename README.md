@@ -26,7 +26,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" align="right" width="50%" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" align="right" width="50%" />
 </div>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
