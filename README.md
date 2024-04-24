@@ -26,6 +26,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&count_private=true&hide_border=true" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" width="43%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" width="42%" />
 </div>  
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
