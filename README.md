@@ -22,10 +22,9 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 
 
-<h3 align="left">Stars</h3><div style="display:flex;flex-direction:row;">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  </div>
+<h3 align="left">Stars</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/pulkit1417">
