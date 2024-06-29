@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit</h1>
 - 🔭 I’m currently working on my Expense-Tracker<br>
 - 👯 I’m looking to collaborate on Web Development<br>
-- 🌱 I’m currently learning AngularJS<br>
+- 🌱 I’m currently learning Angular<br>
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
