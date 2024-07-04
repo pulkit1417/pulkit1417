@@ -41,14 +41,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-<table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<br>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
