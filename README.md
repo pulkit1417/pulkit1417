@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-omega-black-99.vercel.app/](https://my-portfolio-omega-black-99.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-omega-black-99.vercel.app/](https://pulkit-portfolio-site.vercel.app/)
 
 - 📫 How to reach me **gupta.pulkit2408@gmail.com**
 
