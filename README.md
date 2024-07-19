@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [KickVault](https://kick-vault.vercel.app/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **BackEnd Development**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
