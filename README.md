@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on BuddyBuzz
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently learning **FullStack Development**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
