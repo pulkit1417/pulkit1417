@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulkit1417" alt="pulkit1417" /></a> </p>
 
-- 🔭 I’m currently working on BuddyBuzz
+- 🔭 I’m currently working on a FullStack Project.
 
 - 🌱 I’m currently learning **FullStack Development**
 
