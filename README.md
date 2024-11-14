@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulkit1417" alt="pulkit1417" /></a> </p>
 
-- 🔭 I’m currently working on a FullStack Project.
+- 🔭 I’m currently working on a Full-Stack Project.
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
@@ -45,6 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&count_private=true&hide_border=true" style="width: 49%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&hide_border=true&layout=compact" style="height: 185px; width: auto;" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit1417&" alt="pulkit1417" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit1417" alt="pulkit1417" /></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
