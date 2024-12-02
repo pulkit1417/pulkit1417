@@ -3,7 +3,7 @@
 #                                                                                                 Hi 👋, I'm Pulkit
 
 ## 🚀 About Me
-A passionate Full-Stack Web Developer from India, currently working on exciting web applications and expanding my skills in full-stack development.
+A passionate **Full-Stack Web Developer** from India, currently working on exciting web applications and expanding my skills in full-stack development.
 
 ## 🔧 Technologies & Tools
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,8 +16,8 @@ A passionate Full-Stack Web Developer from India, currently working on exciting 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## 🌟 Current Focus
-- 🔭 Currently working on a Full-Stack Project
-- 🌱 Learning and improving Full-Stack Development skills
+- 🔭 Currently working on a **Full-Stack Project**
+- 🌱 Learning and improving **Full-Stack Development skills**
 - 👯 Looking to collaborate on Web Applications
 
 ## 📊 GitHub Stats
