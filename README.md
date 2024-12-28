@@ -45,7 +45,6 @@ A passionate **Full-Stack Web Developer** from India, currently working on excit
 
 ## 🌟 Current Focus
 - 🔭 Currently working on a **Full-Stack Project**
-- 🌱 Learning and improving **Full-Stack Development skills**
 - 👯 Looking to collaborate on Web Applications
 
 ## 📊 GitHub Stats
