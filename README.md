@@ -64,7 +64,7 @@ A passionate **Full-Stack Web Developer** from India, currently working on excit
 
 ## 📧 Contact
 - **Email**: gupta.pulkit2408@gmail.com
-- <a href="https://www.pulkit.site/" target="_blank">Portfolio</a>
+- <a href="https://www.pulkit.site/" target="main">Portfolio</a>
 
 ---
 ![Profile Views](https://profile-counter.glitch.me/pulkit1417/count.svg)
