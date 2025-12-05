@@ -1,72 +1,273 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-#                                                                                                 Hi 👋, I'm Pulkit
-
-## 🚀 About Me
-A passionate **Full-Stack Web Developer** from India, currently working on exciting web applications and expanding my skills in full-stack development.
-
-## 🔧 Technologies & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pulkit%20Gupta&fontSize=42&fontAlignY=30&desc=Full-Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20DSA%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Computing+Specialist+%E2%98%81%EF%B8%8F;300%2B+LeetCode+Problems+Solved+%F0%9F%92%AA;Building+Real-World+Solutions+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
+</div>
 
-## 🌟 Current Focus
-- 🔭 Currently working on a **Full-Stack Project**
-- 👯 Looking to collaborate on Web Applications
+<div align="center">
+  
+### 🎓 B.Tech CSE (Cloud Computing) @ SRM
+### 👨‍💼 Former Intern @ WriteCream & Grootz | 🏆 GDSC Hackathon Winner
 
-## 📊 GitHub Stats
-![Pulkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&layout=compact&theme=dracula)
+</div>
 
-## 🔥 Streak Stats
-![Pulkit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pulkit1417&theme=dracula)
+<br/>
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pulkit1417&theme=dracula&column=-1&row=1)
+## 🎯 About Me
 
-## 📬 Connect with Me
+```typescript
+const pulkit = {
+    location: "India 🇮🇳",
+    role: "Full-Stack Developer & DevOps Engineer",
+    education: [
+        "B.Tech CSE (Cloud Computing) @ SRM - 9.95 CGPA 🌟",
+    ],
+    code: ["JavaScript", "TypeScript", "Java", "C++", "MySQL"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Angular 17"],
+            css: ["Bootstrap", "Tailwind", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        databases: ["MongoDB", "MySQL", "Firebase"],
+        devOps: ["Docker", "Kubernetes", "Jenkins", "AWS"],
+        misc: ["Git", "Linux", "REST APIs", "JWT Auth"]
+    },
+    currentFocus: "Building scalable web applications with cloud-native architecture",
+    achievements: {
+        leetcode: "300+ problems solved",
+        hackathon: "HackTheFlag Winner (GDSC)",
+        community: "Co-Founder of Connect-SRM (500+ users)"
+    },
+    funFact: "I debug with console.log() and I'm not ashamed 😄"
+};
+```
+
+<br/>
+
+## 💼 Professional Experience
+
+<div align="center">
+
+| Role | Company | Duration | Highlights |
+|------|---------|----------|------------|
+| **Full Stack Developer Intern** | WriteCream | Feb 2025 - Jul 2025 | Integrated AI APIs for dynamic content generation, built responsive web apps with AI-powered features |
+| **Web Development Intern** | Grootz | Jul 2024 - Nov 2024 | Crafted seamless UX with ReactJS, collaborated on ed-tech community platform |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 BloggingByte
+**Tech Stack:** Node.js, MongoDB, Express.js
+- JWT authentication system
+- Dynamic author profiles
+- Interactive user engagement features
+- Deployed on Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://bloggingbyte.vercel.app)
+
+</td>
+<td width="50%">
+
+### 👟 KickVault
+**Tech Stack:** Angular 17, TypeScript, JSON Server
+- High-quality shoe e-commerce platform
+- Advanced product search & filtering
+- Shopping cart & secure checkout
+- Fully responsive design
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://kickvault.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📸 Memories
+**Tech Stack:** React, Node.js, MongoDB, Express.js
+- Social platform for sharing posts
+- Tagging & commenting features
+- JWT-based authentication
+- Hosted on Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://memories.vercel.app)
+
+</td>
+<td width="50%">
+
+### 🌐 Connect-SRM
+**Co-Founder & Lead Developer**
+- Student-focused community platform
+- 500+ active users
+- Web development leadership
+- Real-world impact on campus
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://connect-srm.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulkit1417&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit1417&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit1417&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pulkit1417&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+```diff
++ 🥇 Winner of HackTheFlag Hackathon by GDSC
++ 💪 300+ LeetCode Problems Solved
++ 🌟 9.95 CGPA in B.Tech CSE (Cloud Computing)
++ 👥 Co-Founder of Connect-SRM (500+ users)
++ 💼 2 Professional Internships Completed
++ 🚀 Multiple Full-Stack Projects Deployed
+```
+
+</div>
+
+<br/>
+
+## 💡 LeetCode Stats
+
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/pulkit1417?theme=dark&font=Noto%20Sans&ext=heatmap)
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```typescript
+const currentGoals = {
+    learning: ["Advanced System Design", "Microservices Architecture", "Cloud-Native Apps"],
+    building: "Scalable full-stack applications with DevOps practices",
+    exploring: ["Kubernetes orchestration", "CI/CD pipelines", "AWS services"],
+    openTo: ["Collaboration on innovative projects", "Open source contributions"],
+    passion: "Creating real-world solutions that make an impact 🚀"
+};
+```
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pulkit.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkitgupta2408)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pulkit__24)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/pulkit1417)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pulkit__24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gupta.pulkit2408@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulkit1417)
 
-## 📧 Contact
-- **Email**: gupta.pulkit2408@gmail.com
-- <a href="https://www.pulkit.site/" target="_blank">Portfolio</a>
+</div>
 
----
-![Profile Views](https://profile-counter.glitch.me/pulkit1417/count.svg)
+<br/>
 
-![Bottom Header](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+## 📈 Profile Summary
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkit1417&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 💬 "Engineer Who Loves Solving Real-World Problems 😊"
+
+![Profile Views](https://komarev.com/ghpvc/?username=pulkit1417&color=6C63FF&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/pulkit1417?style=for-the-badge&color=6C63FF&labelColor=0D1117)
+![GitHub Stars](https://img.shields.io/github/stars/pulkit1417?style=for-the-badge&color=6C63FF&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
