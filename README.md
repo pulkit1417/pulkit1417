@@ -51,19 +51,6 @@ const pulkit = {
 
 <br/>
 
-## 💼 Professional Experience
-
-<div align="center">
-
-| Role | Company | Duration | Highlights |
-|------|---------|----------|------------|
-| **Full Stack Developer Intern** | WriteCream | Feb 2025 - Jul 2025 | Integrated AI APIs for dynamic content generation, built responsive web apps with AI-powered features |
-| **Web Development Intern** | Grootz | Jul 2024 - Nov 2024 | Crafted seamless UX with ReactJS, collaborated on ed-tech community platform |
-
-</div>
-
-<br/>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -106,69 +93,6 @@ const pulkit = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📝 BloggingByte
-**Tech Stack:** Node.js, MongoDB, Express.js
-- JWT authentication system
-- Dynamic author profiles
-- Interactive user engagement features
-- Deployed on Vercel
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://bloggingbyte.vercel.app)
-
-</td>
-<td width="50%">
-
-### 👟 KickVault
-**Tech Stack:** Angular 17, TypeScript, JSON Server
-- High-quality shoe e-commerce platform
-- Advanced product search & filtering
-- Shopping cart & secure checkout
-- Fully responsive design
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://kickvault.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📸 Memories
-**Tech Stack:** React, Node.js, MongoDB, Express.js
-- Social platform for sharing posts
-- Tagging & commenting features
-- JWT-based authentication
-- Hosted on Vercel
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://memories.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🌐 Connect-SRM
-**Co-Founder & Lead Developer**
-- Student-focused community platform
-- 500+ active users
-- Web development leadership
-- Real-world impact on campus
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://connect-srm.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -198,16 +122,6 @@ const pulkit = {
 + 💼 2 Professional Internships Completed
 + 🚀 Multiple Full-Stack Projects Deployed
 ```
-
-</div>
-
-<br/>
-
-## 💡 LeetCode Stats
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/pulkit1417?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 </div>
 
