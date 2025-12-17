@@ -93,19 +93,6 @@ const pulkit = {
 
 <br/>
 
-## 📊 GitHub Analytics
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit1417&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pulkit1417&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## 🏆 Achievements & Milestones
 
 <div align="center">
